@@ -8,6 +8,6 @@ To write a program that is maintainable, readable, and adaptable it is important
 
 To approach things as a computer scientists it requires looking at what is needed and figuring out a creative method to get it to work. This requires knowing your tools and doing research to better learn how to utilize them. I know I definitly did a lot of research on how to work in MongoDB and there is still plenty more that I need to learn.
 
-##What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
+## What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
 
 A computer scientist does a lot of research into the technologies they work on and a lot of troubleshooting. It is important as mentioned earlier to understand how these systems work and how to get them to do the things that are require by their users. In the scenario poseed in this class worked towards creating a dashboard that could be used by someone and a ReadMe that helps others learn a little bit about how it works and how they could make something similar. I think I could have done a bit of a better job by going into more detail.
